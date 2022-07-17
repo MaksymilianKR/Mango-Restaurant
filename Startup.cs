@@ -56,4 +56,5 @@ namespace Mango.Services.ProductAPI
             });
         }
     }
+    //dodaje kolejny komentarz dla testu można go usunąć :)
 }
